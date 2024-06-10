@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hessennasser&label=Profile%20views&color=0e75b6&style=flat" alt="hessennasser" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://sm8rtdev.online/](https://sm8rtdev.online/)
+- 👨‍💻 All of my projects are available at [https://hessennasser.github.io/smartdev-website/](https://hessennasser.github.io/smartdev-website/)
 
 - 📝 I regularly write articles on [https://medium.com/@hessennasser3579](https://medium.com/@hessennasser3579)
 
